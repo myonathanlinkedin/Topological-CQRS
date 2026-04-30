@@ -1,0 +1,19 @@
+{
+  "dataset": "FEVER",
+  "queries": [
+    {
+      "id": "q1",
+      "text": "The flat earth theory is scientifically proven."
+    },
+    {
+      "id": "q2",
+      "text": "Climate change is significantly influenced by human activity."
+    }
+  ],
+  "parameters": {
+    "temperature": 0.5,
+    "alpha": 0.001,
+    "token_budget": 2048,
+    "top_k": 50
+  }
+}

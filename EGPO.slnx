@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EGPO.Core/EGPO.Core.csproj" />
+    <Project Path="src/EGPO.Retriever/EGPO.Retriever.csproj" />
+    <Project Path="src/EGPO.Embedding/EGPO.Embedding.csproj" />
+    <Project Path="src/EGPO.Pipeline/EGPO.Pipeline.csproj" />
+    <Project Path="src/EGPO.Tests/EGPO.Tests.csproj" />
+    <Project Path="src/TCQRS.Core/TCQRS.Core.csproj" />
+    <Project Path="src/TCQRS.Evaluator/TCQRS.Evaluator.csproj" />
+    <Project Path="src/TCQRS.Materializer/TCQRS.Materializer.csproj" />
+  </Folder>
+</Solution>
